@@ -139,7 +139,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 ```
 ## OUTPUT:
 
-
+"C:\Users\admin\Documents\genai course\Screenshot 2026-03-16 152849.png"
 
 ## RESULT:
 
